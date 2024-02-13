@@ -3,7 +3,6 @@
 	import PageBody from '$lib/components/pagebody.svelte';
 	const organization = data.items.values;
 	organization.splice(0, 2);
-	console.log("😊😊 organization", organization)
 </script>
 
 <PageBody>
