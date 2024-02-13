@@ -1,4 +1,6 @@
-{"lib": [
+{
+    "extends": "./.svelte-kit/tsconfig.json",
+    "lib": [
     "ES2023",
   ]
 }
